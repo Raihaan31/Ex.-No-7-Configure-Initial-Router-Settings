@@ -1,5 +1,5 @@
-## Ex. No: 7 – Configure Initial Router Settings
-# Date: 05/02/2026
+# Ex. No: 7 – Configure Initial Router Settings
+## Date: 05/02/2026
 ________________________________________
 # Objective
 To perform basic router configuration tasks in Cisco Packet Tracer including:<br>
